@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "mx.unam.feu.jwtCookieName",
+    "type": "java.lang.String",
+    "description": "Nombre de cookie"
+  },
+  {
+    "name": "mx.unam.feu.jwtExpirationMs",
+    "type": "java.lang.String",
+    "description": "Tiempo en que expira la sesión"
+  },
+  {
+    "name": "mx.unam.feu.jwtSecret",
+    "type": "java.lang.String",
+    "description": "Llave secreta"
+  }
+]}
