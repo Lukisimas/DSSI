@@ -8,5 +8,5 @@ Repositorio para la prueba de FEU
 INSERT INTO roles(name) VALUES('ROLE_USER');
 INSERT INTO roles(name) VALUES('ROLE_MODERATOR');
 INSERT INTO roles(name) VALUES('ROLE_ADMIN');
-4.	Se puede probar el back-end con herramientas como Rest Client y pasar la información del body request en formato JSON. Ejemplo para POST signup: {"username":"alan","email":"alan.gil@unam.mx","role":["admin"], "password":"djhfj39472389"}
+4.	Se puede probar el back-end con herramientas como Rest Client y pasar la información del body request en formato JSON. Ejemplo para POST signup: {"username":"alan","email":"alan@company.com","role":["admin"], "password":"djhfj39472389"}
 
